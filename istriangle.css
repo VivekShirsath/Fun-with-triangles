@@ -1,0 +1,41 @@
+body {
+  background-color: #718daa;
+}
+.container {
+  width: 500px;
+  display: block;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+h1 {
+  text-align: center;
+  color: #f4f4f4;
+}
+
+label {
+  display: block;
+  font-size: 1.5rem;
+  margin: 1rem;
+  color: white;
+}
+
+input {
+  width: 100%;
+  font-size: 1.5rem;
+  padding: 0.7rem;
+}
+button {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 30px;
+  background-color: #f4f4f4;
+  color: #34495e;
+  border: 2px solid #34495e;
+}
+
+.message {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
