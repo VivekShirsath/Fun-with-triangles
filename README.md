@@ -11,7 +11,6 @@ This project is having four pages:
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascript</li>
-<li>Reactjs</li>
 </ol>
 <h1>Live Link of the Project</h1>
 <a href = "https://fun-with-trianglesjs.netlify.app">Live Project</a>
